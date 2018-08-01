@@ -1,0 +1,11 @@
+body {
+    background-color:#D7FAE6;
+    color: rgb(13, 17, 77);
+}
+fieldset{
+    background: url("https://media2.giphy.com/media/JXHhI4o9NCf8k/200.gif");
+}
+form{
+    font-style: bold;
+    color: rgb(13, 17, 77)
+}
